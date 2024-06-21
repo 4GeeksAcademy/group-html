@@ -5,11 +5,21 @@ body{
 
 .headingCard {
     width: 80%;
-    padding: 2%;
-    border-right: none;
-    border-left: none;
+    border: none;
 }
 
 .headingCard-text {
     font-size: 26px;
 }
+
+.headingCard-img {
+    height: 500px;
+}
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    width: 80%;
+  }

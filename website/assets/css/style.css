@@ -4,4 +4,11 @@ body{
 
 .headingCard {
     width: 80%;
+    padding: 2%;
+    border-right: none;
+    border-left: none;
+}
+
+.headingCard-text {
+    font-size: 26px;
 }
